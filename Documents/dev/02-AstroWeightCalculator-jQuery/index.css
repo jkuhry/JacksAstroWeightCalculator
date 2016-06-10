@@ -1,0 +1,27 @@
+
+#topLine h3 {
+	display: inline;
+	margin-right: 20px;
+
+}
+#inputs #weight, #selection_div {
+	display: inline;
+	margin-right: 130px;
+}
+
+h1 {
+	color: black;
+}
+
+h3 {
+	color: black;
+}
+
+#submit {
+	font-size: 118pt;
+}
+
+p {
+	color: black;
+	font-size: 16pt;
+}
